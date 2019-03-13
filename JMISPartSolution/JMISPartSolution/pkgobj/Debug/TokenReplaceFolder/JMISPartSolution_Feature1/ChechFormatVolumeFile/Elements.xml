@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListUrl="/TemporaryDeliveryes">
+      <Receiver>
+        <Name>ChechFormatVolumeFileItemAdding</Name>
+        <Type>ItemAdding</Type>
+        <Assembly>JMISPartSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a1cad7275c661664</Assembly>
+        <Class>JMISPartSolution.ChechFormatVolumeFile.ChechFormatVolumeFile</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+      <Receiver>
+        <Name>ChechFormatVolumeFileItemUpdating</Name>
+        <Type>ItemUpdating</Type>
+        <Assembly>JMISPartSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a1cad7275c661664</Assembly>
+        <Class>JMISPartSolution.ChechFormatVolumeFile.ChechFormatVolumeFile</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+      <Receiver>
+        <Name>ChechFormatVolumeFileItemCheckingIn</Name>
+        <Type>ItemCheckingIn</Type>
+        <Assembly>JMISPartSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a1cad7275c661664</Assembly>
+        <Class>JMISPartSolution.ChechFormatVolumeFile.ChechFormatVolumeFile</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+  </Receivers>
+  <Receivers ListUrl="/DefectDeliminations">
+    <Receiver>
+      <Name>ChechFormatVolumeFileItemAdding</Name>
+      <Type>ItemAdding</Type>
+      <Assembly>JMISPartSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a1cad7275c661664</Assembly>
+      <Class>JMISPartSolution.ChechFormatVolumeFile.ChechFormatVolumeFile</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>ChechFormatVolumeFileItemUpdating</Name>
+      <Type>ItemUpdating</Type>
+      <Assembly>JMISPartSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a1cad7275c661664</Assembly>
+      <Class>JMISPartSolution.ChechFormatVolumeFile.ChechFormatVolumeFile</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>ChechFormatVolumeFileItemCheckingIn</Name>
+      <Type>ItemCheckingIn</Type>
+      <Assembly>JMISPartSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a1cad7275c661664</Assembly>
+      <Class>JMISPartSolution.ChechFormatVolumeFile.ChechFormatVolumeFile</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+  </Receivers>
+ <Receivers  ListUrl="/ExprienceDetails">
+    <Receiver>
+      <Name>ChechFormatVolumeFileItemAdding</Name>
+      <Type>ItemAdding</Type>
+      <Assembly>JMISPartSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a1cad7275c661664</Assembly>
+      <Class>JMISPartSolution.ChechFormatVolumeFile.ChechFormatVolumeFile</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>ChechFormatVolumeFileItemUpdating</Name>
+      <Type>ItemUpdating</Type>
+      <Assembly>JMISPartSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a1cad7275c661664</Assembly>
+      <Class>JMISPartSolution.ChechFormatVolumeFile.ChechFormatVolumeFile</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>ChechFormatVolumeFileItemCheckingIn</Name>
+      <Type>ItemCheckingIn</Type>
+      <Assembly>JMISPartSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a1cad7275c661664</Assembly>
+      <Class>JMISPartSolution.ChechFormatVolumeFile.ChechFormatVolumeFile</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+  </Receivers>
+</Elements>

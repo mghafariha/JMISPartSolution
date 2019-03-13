@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="35cadb21-a9e2-4a00-a353-9075a92cd7f6" solutionId="35cadb21-a9e2-4a00-a353-9075a92cd7f6" resetWebServer="false" sharePointProductVersion="15.0" name="JMISPartSolution" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="7c565380-127f-4342-b416-edafdf28aeec" />
+  </features>
+</package>

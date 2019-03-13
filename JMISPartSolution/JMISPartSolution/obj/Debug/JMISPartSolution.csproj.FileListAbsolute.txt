@@ -1,0 +1,5 @@
+c:\users\spadmin\documents\visual studio 2013\Projects\JMISPartSolution\JMISPartSolution\obj\Debug\JMISPartSolution.csprojResolveAssemblyReference.cache
+c:\users\spadmin\documents\visual studio 2013\Projects\JMISPartSolution\JMISPartSolution\bin\Debug\JMISPartSolution.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\JMISPartSolution\JMISPartSolution\bin\Debug\JMISPartSolution.pdb
+c:\users\spadmin\documents\visual studio 2013\Projects\JMISPartSolution\JMISPartSolution\obj\Debug\JMISPartSolution.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\JMISPartSolution\JMISPartSolution\obj\Debug\JMISPartSolution.pdb

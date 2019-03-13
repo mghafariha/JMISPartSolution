@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="101">
+      <Receiver>
+        <Name>SetFileItemPermissionFromContractItemCheckedIn</Name>
+        <Type>ItemCheckedIn</Type>
+        <Assembly>JMISPartSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a1cad7275c661664</Assembly>
+        <Class>JMISPartSolution.SetFileItemPermissionFromContract.SetFileItemPermissionFromContract</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+  </Receivers>
+</Elements>

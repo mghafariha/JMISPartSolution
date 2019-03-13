@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="JMISPartSolution Feature1" Id="70f1a276-588a-46fe-98e3-4bd059b7fd4a" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="ChechFormatVolumeFile\Elements.xml" />
+    <ElementManifest Location="SetFileItemPermissionFromContract\Elements.xml" />
+  </ElementManifests>
+</Feature>
